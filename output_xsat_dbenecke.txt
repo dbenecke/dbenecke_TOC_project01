@@ -1,0 +1,24 @@
+Obtained this data from:plotcode_data_dbenecke.py
+
+
+Output:
+18
+18
+18
+18
+18
+18
+36
+40
+40
+40
+60
+64
+66
+76
+76
+86
+86
+86
+90
+94

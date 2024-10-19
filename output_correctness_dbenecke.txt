@@ -1,0 +1,204 @@
+INPUT:
+check-sample-dbenecke.csv
+
+Output:
+Problem: 1000
+Satisfiable
+Problem: 1001
+Satisfiable
+Problem: 1002
+Satisfiable
+Problem: 1003
+Unsatisfiable
+Problem: 1004
+Unsatisfiable
+Problem: 1005
+Unsatisfiable
+Problem: 1006
+Satisfiable
+Problem: 1007
+Satisfiable
+Problem: 1008
+Unsatisfiable
+Problem: 1009
+Satisfiable
+Problem: 1010
+Satisfiable
+Problem: 1011
+Unsatisfiable
+Problem: 1012
+Unsatisfiable
+Problem: 1013
+Unsatisfiable
+Problem: 1014
+Unsatisfiable
+Problem: 1015
+Unsatisfiable
+Problem: 1016
+Unsatisfiable
+Problem: 1017
+Unsatisfiable
+Problem: 1018
+Unsatisfiable
+Problem: 1019
+Unsatisfiable
+Problem: 1020
+Unsatisfiable
+Problem: 1021
+Satisfiable
+Problem: 1022
+Unsatisfiable
+Problem: 1023
+Satisfiable
+Problem: 1024
+Unsatisfiable
+Problem: 1025
+Satisfiable
+Problem: 1026
+Unsatisfiable
+Problem: 1027
+Unsatisfiable
+Problem: 1028
+Unsatisfiable
+Problem: 1029
+Unsatisfiable
+Problem: 1030
+Satisfiable
+Problem: 1031
+Unsatisfiable
+Problem: 1032
+Unsatisfiable
+Problem: 1033
+Unsatisfiable
+Problem: 1034
+Unsatisfiable
+Problem: 1035
+Unsatisfiable
+Problem: 1036
+Unsatisfiable
+Problem: 1037
+Unsatisfiable
+Problem: 1038
+Unsatisfiable
+Problem: 1039
+Unsatisfiable
+Problem: 1040
+Unsatisfiable
+Problem: 1041
+Unsatisfiable
+Problem: 1042
+Unsatisfiable
+Problem: 1043
+Unsatisfiable
+Problem: 1044
+Unsatisfiable
+Problem: 1045
+Unsatisfiable
+Problem: 1046
+Satisfiable
+Problem: 1047
+Unsatisfiable
+Problem: 1048
+Unsatisfiable
+Problem: 1049
+Unsatisfiable
+Problem: 1050
+Unsatisfiable
+Problem: 1051
+Unsatisfiable
+Problem: 1052
+Satisfiable
+Problem: 1053
+Unsatisfiable
+Problem: 1054
+Unsatisfiable
+Problem: 1055
+Unsatisfiable
+Problem: 1056
+Unsatisfiable
+Problem: 1057
+Unsatisfiable
+Problem: 1058
+Unsatisfiable
+Problem: 1059
+Unsatisfiable
+Problem: 1060
+Unsatisfiable
+Problem: 1061
+Satisfiable
+Problem: 1062
+Unsatisfiable
+Problem: 1063
+Unsatisfiable
+Problem: 1064
+Unsatisfiable
+Problem: 1065
+Unsatisfiable
+Problem: 1066
+Unsatisfiable
+Problem: 1067
+Unsatisfiable
+Problem: 1068
+Satisfiable
+Problem: 1069
+Unsatisfiable
+Problem: 1070
+Unsatisfiable
+Problem: 1071
+Satisfiable
+Problem: 1072
+Satisfiable
+Problem: 1073
+Unsatisfiable
+Problem: 1074
+Unsatisfiable
+Problem: 1075
+Unsatisfiable
+Problem: 1076
+Satisfiable
+Problem: 1077
+Unsatisfiable
+Problem: 1078
+Unsatisfiable
+Problem: 1079
+Unsatisfiable
+Problem: 1080
+Unsatisfiable
+Problem: 1081
+Satisfiable
+Problem: 1082
+Unsatisfiable
+Problem: 1083
+Unsatisfiable
+Problem: 1084
+Unsatisfiable
+Problem: 1085
+Unsatisfiable
+Problem: 1086
+Unsatisfiable
+Problem: 1087
+Unsatisfiable
+Problem: 1088
+Unsatisfiable
+Problem: 1089
+Unsatisfiable
+Problem: 1090
+Unsatisfiable
+Problem: 1091
+Unsatisfiable
+Problem: 1092
+Unsatisfiable
+Problem: 1093
+Unsatisfiable
+Problem: 1094
+Unsatisfiable
+Problem: 1095
+Unsatisfiable
+Problem: 1096
+Unsatisfiable
+Problem: 1097
+Unsatisfiable
+Problem: 1098
+Unsatisfiable
+Problem: 1099
+Satisfiable
